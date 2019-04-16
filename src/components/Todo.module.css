@@ -1,0 +1,8 @@
+.Input:focus{
+    background-color: bisque
+}
+
+.Input{
+    background-color: aquamarine;
+    border: none
+}
